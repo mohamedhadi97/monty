@@ -8,5 +8,5 @@ push 4
     push 5   
     gdgfr gdf g 
       push    6        
-pall
+pall 
 gdgfr gdf g
