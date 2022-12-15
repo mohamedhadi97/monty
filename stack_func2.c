@@ -13,7 +13,7 @@ void nop(stack_t **stack, unsigned int line_number)
 
 
 /**
- * swap_nodes - Swaps the top two elements of the stack.
+ * swap_nodes - Swaps the top two elements found in the stack.
  * @stack: Pointer to a pointer pointing to top node of the stack.
  * @line_number: Interger representing the line number of of the opcode.
  */
