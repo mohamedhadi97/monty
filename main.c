@@ -3,7 +3,7 @@ stack_t *head = NULL;
 
 /**
  * main - entry point
- * @argc: arguments count
+ * @argc: arguments counted
  * @argv: list of arguments
  * Return: always 0
  */
